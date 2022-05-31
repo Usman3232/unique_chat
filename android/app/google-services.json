@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545953697358",
+    "project_id": "uniqueeechat",
+    "storage_bucket": "uniqueeechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545953697358:android:108515055a320c27e87d1f",
+        "android_client_info": {
+          "package_name": "com.example.uniqueeechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545953697358-s7sdlkrcn8u1ae45jbk7t6on13dcd6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvvA9B9zJ3P5nYn4e8t61xktX15wdAHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545953697358-s7sdlkrcn8u1ae45jbk7t6on13dcd6r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
